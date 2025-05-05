@@ -6,7 +6,7 @@ Liberty NFT Marketplace is a modern and professional web template designed for N
 
 The Liberty NFT Marketplace is now live! You can explore the website, browse NFT collections, and experience its features in real-time. Visit the live site to see it in action and start your NFT journey today.
 
-[Visit the Live Website](https://hackerx.in) 
+[Visit the Live Website](https://libertyui.netlify.app/) 
 
 
 - **Responsive Design**: Fully responsive layout that works seamlessly across devices.
