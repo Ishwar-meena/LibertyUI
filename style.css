@@ -385,7 +385,9 @@ footer {
     text-align: center;
     padding: 2em 0;
 }
-
+footer a{
+    color: white;
+}
 
 @media (max-width: 1100px) {
     body {
